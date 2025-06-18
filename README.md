@@ -34,8 +34,9 @@ Ce qui aura pour effet de créer un lien explorateur de fichier qu'il suffira de
 afin de l'arrimer à votre navigateur.
 
 
-Le passage par l'explorateur de fichier est obligatoire sous Android,car ce dernier,pour des raisons de sécurité, interdit aux navigateur
-un accès direct aux fichiers!!
+Le passage par l'explorateur de fichier est obligatoire sous Android, car ce dernier, pour des raisons de sécurité, 
+
+interdit aux navigateur un accès direct aux fichiers!!
 
 J'éspère que cela vous rendra service. 
 Merci de faire un retour sur ce que vous en tirer comme conclusion!
