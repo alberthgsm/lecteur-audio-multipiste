@@ -20,8 +20,21 @@ Pour le lancement de l'app,
 et ensuite de naviguer via l'explorateur de fichier, jusqu'au répertoire ou vous aurez stocker le fichier :
 Lecteur-10-Track-Audio.html
 2°) sur Android Tablette, il faudra arriver, via l'explorateur de fichier, jusqu'au répertoire ou vous aurez stocker le fichier :
+
 Lecteur-10-Track-Audio.html
-et ensuite avec un clic sur le nom du fichier, faire ouvrir avec: votre navigateur installé.
+
+et ensuite avec un appuie long sur le nom du fichier pour le sélectionner. Apartir de là deux possibilités:
+
+a) faire ouvrir avec: ==> votre navigateur installé. Mais il faudra répéter la manip à chaque utilisation.
+
+b) sélectionner l'option plus => Ajouter à l'écran d'acceuil
+
+Ce qui aura pour effet de créer un lien explorateur de fichier qu'il suffira de sélectionner pour chaque utilisation pour
+l'arrimer à votre navigateur
+
+
+Le passage par l'explorateur de fichier est obligatoire sous Android,car ce dernier,pour des raisons de sécurité, interdit aux navigateur
+un accès direct aux fichiers!!
 
 J'éspère que cela vous rendra service. 
 Merci de faire un retour sur ce que vous en tirer comme conclusion!
