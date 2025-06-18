@@ -30,7 +30,8 @@ a) faire ouvrir avec: ==> votre navigateur installé. Mais il faudra répéter l
 b) sélectionner l'option plus => Ajouter à l'écran d'acceuil
 
 Ce qui aura pour effet de créer un lien explorateur de fichier qu'il suffira de sélectionner pour chaque utilisation
-afin l'arrimer à votre navigateur
+
+afin de l'arrimer à votre navigateur.
 
 
 Le passage par l'explorateur de fichier est obligatoire sous Android,car ce dernier,pour des raisons de sécurité, interdit aux navigateur
