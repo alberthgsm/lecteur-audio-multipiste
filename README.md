@@ -9,12 +9,16 @@ Pas de DAW ou autre éditeur audio. Juste un simple lecteur multipiste!
 Après donc des recherches infructueuses, je m'en suis codé un avec nodejs dans un premeier temps
 et butant sur le problème de prise en compte des différents formats audio, je me suis tourner vers
 Open-AI et Grok-AI. Du coup j'ai mis ma version nodejs à la poubelle pour une app entièrement en js-html.
-Je ne savais même pas que c'était possible. Bref! en deux jours l'affaire était pliée!!! Comme quoi!!!!!
+Je ne savais même pas que c'était possible de le faire via un simple code js-html!
 
-Okay. Donc, pour s'en servir c'est très simple, je l'ai voulue le plus intuitif possible. 
+Bref! en deux jours l'affaire était pliée!!! Comme quoi!!!!!
+
+Donc, télécharger le fichier Lecteur-10-Track-Audio.html et suvegarder le dans le répertoire de votre choix.
+
+Okay. Pour s'en servir c'est très simple. Je l'ai voulue le plus intuitif possible. 
 Il y a un résumé via le clic du bouton 💡. Concernant les formats de fichier, ce que j'ai validé comme opérationnel,
 c'est le mp3 et le wav. Ce qui, pour moi est largement suffisant. Mais par définition, l'app est capable
-de lire tous les formats sous condition des codec installés bien sur!
+de lire tous les formats sous réserve de l'installation des codec bien sur!
 
 Pour le lancement de l'app, 
 1°) sur Linux, il suffit de faire un ctrl + o, dans votre navigateur ( firefox, chrome, Brave )
@@ -47,59 +51,59 @@ Merci de faire un retour sur ce que vous en tirer comme conclusion!
 Mon adresse e-mail! alberthgsm@gmail.com.
 
 
-multi-track-audio-player MIT License
-HTML multi-track audio player for musicians.
+🎧 HTML Multi-track Audio Player for Musicians
+The starting point:
+I needed a simple multi-track audio player that works on Linux and Android tablets.
+No DAW or fancy audio editor — just a basic multi-track player, nothing more!
 
-Starting point:
+After a lot of unsuccessful searching, I ended up coding one myself using Node.js at first.
+But I ran into problems with supporting various audio formats.
 
-I needed a simple multi-track player that could run on Linux and Android tablets.
-No DAW, no audio editor — just a straightforward multi-track player!
-After searching in vain, I decided to code my own using Node.js at first.
-But I ran into issues with audio format compatibility.
-So I turned to OpenAI and Grok-AI for help.
-As a result, I threw away the Node.js version and rebuilt everything using pure JS and HTML.
-I didn’t even know it was possible!
-Long story short — two days later, it was done! Shows you never know what you can achieve!
+That’s when I turned to OpenAI and Grok-AI for help.
+Thanks to that, I scrapped the Node.js version and rewrote everything as a pure HTML/JavaScript app.
+Honestly, I didn’t even know it was possible to do this with just HTML and JS!
 
-How to use it:
+Anyway — two days later, it was done!
+Goes to show... sometimes, the simplest way is the best!
 
-I wanted it to be as simple and intuitive as possible.
-There's a summary available via the 💡 button.
+▶️ How to use it:
+Download the file Lecteur-10-Track-Audio.html
 
-As for supported file formats, I’ve confirmed that MP3 and WAV work well.
-For me, that’s more than enough.
-But by design, the app can play any audio format — as long as the right codecs are installed on the system!
+Save it anywhere on your device
 
-Launching the app:
-1°) On Linux:
-Open your browser (Firefox, Chrome, Brave, etc.)
+It’s meant to be as simple and intuitive as possible.
+There’s a quick explanation available via the 💡 button.
 
-Press Ctrl + O to open a local file
+✅ Supported file formats:
+Tested and working with MP3 and WAV files — which covers most use cases for me.
+Technically, it can play any audio format, as long as the right codecs are installed on your system.
 
-Then navigate to the folder where you saved the file:
-Lecteur-10-Track-Audio.html
+🐧 On Linux:
+Open your browser (Firefox, Chrome, Brave…)
 
-2°) On Android tablet:
-Use a file explorer app to navigate to the folder where you saved:
-Lecteur-10-Track-Audio.html
+Press Ctrl + O
 
-Then long-press the file to select it.
-From here, two options:
+Use the file dialog to find and open the file Lecteur-10-Track-Audio.html
 
-a) Select Open with → then choose your installed browser
-(you’ll have to repeat this every time)
+📱 On Android Tablets:
+Since browsers can’t access local files directly for security reasons, you’ll need to go through the file explorer.
 
-b) Choose More → Add to Home screen
-This creates a shortcut in your file explorer.
-Each time you use it, it will launch the player through your browser.
+Using your file manager, find the file Lecteur-10-Track-Audio.html
 
-⚠️ Note:
+Long press on the file name to select it
 
-Using the file explorer is mandatory on Android,
-because for security reasons, browsers are not allowed to directly access local files!
+You now have two options:
 
-I hope this tool proves useful to you!
+a) "Open with…" → Choose your browser
+You’ll need to repeat this each time.
 
-Feel free to send me feedback or your impressions!
+b) "More" → "Add to Home Screen"
+This creates a shortcut that you can use to launch the player like a regular app, through your file manager and browser.
 
-📧 My email: alberthgsm@gmail.com
+📌 Note:
+Accessing local files through the file explorer is mandatory on Android, due to security restrictions that prevent browsers from directly opening files.
+
+I hope this tool will be useful to you!
+Feel free to share your feedback or suggestions — I’d love to hear your thoughts.
+
+📬 Contact: alberthgsm@gmail.com
