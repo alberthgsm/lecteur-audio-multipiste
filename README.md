@@ -1,5 +1,7 @@
 # lecteur-audio-multipiste Licence MIT
+
 Lecteur audio multipiste HTML pour musiciens
+
 -Le point de départ:
 J'avais besoin d'un simple lecteur multipiste, fonctionnant sur Linux et Android Tablette. 
 Pas de DAW ou autre éditeur audio. Juste un simple lecteur multipiste!
