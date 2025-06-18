@@ -46,6 +46,7 @@ Merci de faire un retour sur ce que vous en tirer comme conclusion!
 
 Mon adresse e-mail! alberthgsm@gmail.com.
 
+
 multi-track-audio-player MIT License
 HTML multi-track audio player for musicians.
 
@@ -93,6 +94,7 @@ This creates a shortcut in your file explorer.
 Each time you use it, it will launch the player through your browser.
 
 ⚠️ Note:
+
 Using the file explorer is mandatory on Android,
 because for security reasons, browsers are not allowed to directly access local files!
 
