@@ -39,5 +39,7 @@ Le passage par l'explorateur de fichier est obligatoire sous Android, car ce der
 interdit aux navigateur un accès direct aux fichiers!!
 
 J'éspère que cela vous rendra service. 
+
 Merci de faire un retour sur ce que vous en tirer comme conclusion!
+
 Mon adresse e-mail! alberthgsm@gmail.com.
